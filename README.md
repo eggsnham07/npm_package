@@ -7,6 +7,6 @@ var string = 'all is working' (new line)
 var send = test(string) (new line)
 console.log(send) (new line)
 
-check it out on npm![emoji-startup-package](https://www.npmjs.com/package/emoji-startup-package)
+check it out on npm![emoji-startup-package](www.npmjs.com/package/emoji-startup-package)
 
 [MODIFY THE CODE] if you want to change the emoji then go into your directiory where you have it installed then node_modules/emoji-startup-package/main.js you can change the code so you have different emojis in there
