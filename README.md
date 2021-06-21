@@ -3,10 +3,10 @@
 if you want to here is a sample to do in RunKit
 
 ```javascript
-var test = require("emoji-startup-package") (new line)
-var string = 'all is working' (new line)
-var send = test(string) (new line)
-console.log(send) (new line)
+var test = require("emoji-startup-package")
+var string = 'all is working'
+var send = test(string)
+console.log(send)
 ```
 
 ### [MODIFY THE CODE]
